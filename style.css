@@ -155,7 +155,7 @@ footer {
     background-color: var(--color-surface-color);
 }
 
-.total {
+#total-price{
     display: flex;
     justify-content: space-between;
 
