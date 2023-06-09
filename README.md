@@ -11,7 +11,7 @@
 </p>
 
 ## 🤍 Projeto
-
+"Desenvolvi um projeto de um Carrinho de Compras interativo usando HTML, CSS e JavaScript, que permite aos usuários definir a quantidade de produtos desejada. O preço total é ajustado automaticamente, realizando a soma dos itens selecionados. Além disso, adicionei uma barra de rolagem personalizada para facilitar a navegação. O projeto combina funcionalidade intuitiva e um design formal, proporcionando uma experiência agradável ao usuário."
 
 ## 💻 Tecnologias
 <div style="display: inline_block"><br>
@@ -23,8 +23,8 @@
 </div>
 
 ## 👩‍💻 Layout Figma
-<p align="center"> Layout Figma desenvolvido pelo UI Designer da Rocketseat <a href="https://jonasmilan.cc/" target="_blank">Jonas Milan</a></p>
+<p align="center"> Layout Figma desenvolvido pela Product Designer da Rocketseat <a href="https://www.linkedin.com/in/ilanamallak/" target="_blank">Ilana Mallak</a></p>
 
-![Captura de tela 2023-06-09 172713](https://github.com/amandadecassiaborges/Carrinho-de-Compras/assets/67706498/021fdc2e-236f-4b24-b254-60ce4ac1c864)
+![Figma](https://github.com/amandadecassiaborges/Carrinho-de-Compras/assets/67706498/021fdc2e-236f-4b24-b254-60ce4ac1c864)
 
 <p align="center"> Este desafio foi criado por [Amanda Borges] <a href="https://www.linkedin.com/in/amandadecassiaborges/" target="_blank">LinkendIn</a> </p>
