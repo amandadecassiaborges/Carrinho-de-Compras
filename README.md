@@ -24,9 +24,7 @@
 
 ## 👩‍💻 Layout Figma
 <p align="center"> Layout Figma desenvolvido pelo UI Designer da Rocketseat <a href="https://jonasmilan.cc/" target="_blank">Jonas Milan</a></p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amandadecassiaborges/GaleriaHover/main/ImagemFigma.png" alt="Imagem do Figma">
-</p>
 
+![Captura de tela 2023-06-09 172713](https://github.com/amandadecassiaborges/Carrinho-de-Compras/assets/67706498/021fdc2e-236f-4b24-b254-60ce4ac1c864)
 
 <p align="center"> Este desafio foi criado por [Amanda Borges] <a href="https://www.linkedin.com/in/amandadecassiaborges/" target="_blank">LinkendIn</a> </p>
